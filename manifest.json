@@ -1,0 +1,22 @@
+{
+  "code": "custom.lots.tab",
+  "version": "1.0.0",
+  "name": {
+    "ru": "Лоты"
+  },
+  "description": {
+    "ru": "Вкладка 'Лоты' в смарт-процессе"
+  },
+  "placements": {
+    "CRM_ENTITY_DETAIL_TAB": [
+      {
+        "handler": "https://bitrix-lots-app.onrender.com",
+        "title": "Лоты"
+      }
+    ]
+  },
+  "install": {
+    "url": "https://bitrix-lots-app.onrender.com"
+  },
+  "baseUrl": "https://bitrix-lots-app.onrender.com"
+}
