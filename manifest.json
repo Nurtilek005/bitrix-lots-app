@@ -5,18 +5,18 @@
     "ru": "Лоты"
   },
   "description": {
-    "ru": "Вкладка Лоты в смарт-процессе"
+    "ru": "Вкладка 'Лоты' в смарт-процессе"
   },
   "placements": {
     "CRM_ENTITY_DETAIL_TAB": [
       {
-        "handler": "https://ВАШ_ДОМЕН/index.html",
+        "handler": "https://bitrix-lots-app.onrender.com",
         "title": "Лоты"
       }
     ]
   },
   "install": {
-    "url": "https://ВАШ_ДОМЕН/"
+    "url": "https://bitrix-lots-app.onrender.com"
   },
-  "baseUrl": "https://ВАШ_ДОМЕН/"
+  "baseUrl": "https://bitrix-lots-app.onrender.com"
 }
