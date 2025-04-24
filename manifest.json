@@ -1,0 +1,22 @@
+{
+  "code": "custom.lots.tab",
+  "version": "1.0.0",
+  "name": {
+    "ru": "Лоты"
+  },
+  "description": {
+    "ru": "Вкладка Лоты в смарт-процессе"
+  },
+  "placements": {
+    "CRM_ENTITY_DETAIL_TAB": [
+      {
+        "handler": "https://ВАШ_ДОМЕН/index.html",
+        "title": "Лоты"
+      }
+    ]
+  },
+  "install": {
+    "url": "https://ВАШ_ДОМЕН/"
+  },
+  "baseUrl": "https://ВАШ_ДОМЕН/"
+}
