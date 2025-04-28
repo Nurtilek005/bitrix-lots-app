@@ -10,13 +10,13 @@
   "placements": {
     "CRM_ENTITY_DETAIL_TAB": [
       {
-        "handler": "https://bitrix-lots-app.onrender.com",
+        "handler": "https://bitrix-lots-app.onrender.com/",
         "title": "Лоты"
       }
     ]
   },
   "install": {
-    "url": "https://bitrix-lots-app.onrender.com"
+    "url": "https://bitrix-lots-app.onrender.com/"
   },
-  "baseUrl": "https://bitrix-lots-app.onrender.com"
+  "baseUrl": "https://bitrix-lots-app.onrender.com/"
 }
