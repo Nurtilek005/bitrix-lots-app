@@ -5,8 +5,6 @@ const app = express();
 // Отдаём статические файлы из папки public
 app.use(express.static(path.join(__dirname, 'public')));
 
-// Отдаём manifest.json по запросу GET /manifest.json
-// ВАЖНО: тут лежит описание приложения для Битрикса
 app.get('/manifest.json', (req, res) => {
   res.sendFile(path.join(__dirname, 'manifest.json'));
 });
